@@ -329,10 +329,10 @@ main .main-content section .article .article-card .article-card-name .card-name 
 main .main-content section .article .article-card .article-card-name .card-name::before {
   content: "\a";
   border-style: solid;
-  border-width: 10px 15px 10px 0;
-  border-color: transparent #C2A56D transparent transparent;
+  border-width: 0 0 15px 15px;
+  border-color: transparent transparent #7D6330 transparent;
   position: absolute;
-  top: -10px;
+  top: -14px;
   left: 0;
 }
 main .main-content section .article .article-card .article-card-name a {
